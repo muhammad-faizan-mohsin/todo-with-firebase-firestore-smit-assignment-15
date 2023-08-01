@@ -3,13 +3,7 @@ import { getFirestore, collection, addDoc, onSnapshot ,doc, deleteDoc } from "ht
 
 
 const firebaseConfig = {
-    apiKey: "AIzaSyAqpooO7aSR6EeAShNX7lMlcHSnvxJQNAc",
-    authDomain: "todos-e106b.firebaseapp.com",
-    databaseURL: "https://todos-e106b-default-rtdb.firebaseio.com",
-    projectId: "todos-e106b",
-    storageBucket: "todos-e106b.appspot.com",
-    messagingSenderId: "621709000428",
-    appId: "1:621709000428:web:e5a2ff0d612533a9d6afc9"
+   
 };
 
 
